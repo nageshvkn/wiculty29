@@ -2,6 +2,11 @@ public class Login
 {
 	public static void main()
 	{
-		System.out.println("hello");
+		int i = 0;
+
+		for(i=0;i<=10;i++)
+		{
+			System.out.println("Number: " + i);
+		}
 	}
 }
